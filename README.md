@@ -1,4 +1,4 @@
-# ⚠️ ATTENTION: THIS IS A TEMPORARY DEVELOPMENT FORK ⚠️
+# ⚠️ ATTENTION: THIS IS A TEMPORARY DEVELOPMENT FORK
 
 **This repository is a temporary copy of the official PhotoDemon project, created solely for the purpose of making a contribution.**
 
@@ -22,7 +22,7 @@ If you wish to contribute to the main project or report an issue, please visit t
 The sole purpose of this repository was to deliver the following contribution back to the main project:
 
 * **Current Goal:** Hungarian Language Translation
-* **Pull Request Initiated:** #701
+* **Pull Request Initiated:** #707
 
 **As soon as this contribution is merged into the original project, this repository may be deleted.**
 
