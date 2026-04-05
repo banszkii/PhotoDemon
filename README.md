@@ -22,7 +22,7 @@ If you wish to contribute to the main project or report an issue, please visit t
 The sole purpose of this repository was to deliver the following contribution back to the main project:
 
 * **Current Goal:** Hungarian Language Translation
-* **Pull Request Initiated:** ##764
+* **Pull Request Initiated:** #764
 
 **As soon as this contribution is merged into the original project, this repository may be deleted.**
 
